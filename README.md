@@ -1,15 +1,17 @@
 <h1>wazuuup guys, I'm Marcelo Donato 🚀
  
- 
     
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-henrique-donato/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/marcelo_donatoo/)
   
   ## **Talking about Personal Stuffs:**
 
+ 
 - 👨🏻‍💻 I’m currently learning more about Kotlin;
 - 💬 Ask me about anything, I am happy to help if I can of course;
 - 📫 How to reach me: add on <a href="https://linkedin.com/in/lucaslaurodonato" rel="nofollow"> Linkedin </a>
+ 
+ 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelodonato&show_icons=true&theme=highcontrast)
 
