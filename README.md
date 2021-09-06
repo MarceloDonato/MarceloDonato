@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloDonato&layout=compact&theme=dracula)](https://github.com/lucaslaurodonato/github-readme-stats
+ <img height = "180em" src = " https://github-readme-stats.vercel.app/api?username=MarceloDonato&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true " />
 </div>
 
 <!--
