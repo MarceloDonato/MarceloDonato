@@ -21,6 +21,9 @@
 <img src="https://img.shields.io/badge/Android-Development-green"></img> 
 <img src="https://img.shields.io/badge/Kotlin-Development-blueviolet"/>
 
+
+![Snake animation](https://github.com/marcelodonato/marcelodonato/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **MarceloDonato/marcelodonato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
