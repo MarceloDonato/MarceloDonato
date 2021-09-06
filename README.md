@@ -9,7 +9,7 @@
  
 - 👨🏻‍💻 I’m currently learning more about Kotlin;
 - 💬 Ask me about anything, I am happy to help if I can of course;
-- 📫 How to reach me: add on <a href="https://linkedin.com/in/lucaslaurodonato" rel="nofollow"> Linkedin </a>
+- 📫 How to reach me: add on <a href="https://linkedin.com/in/marcelo-henrique-donato" rel="nofollow"> Linkedin </a>
  
  
 
