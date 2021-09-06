@@ -8,8 +8,8 @@
   ## **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently learning more about Kotlin;
- 💬 Ask me about anything, I am happy to help if I can of course;
-
+- 💬 Ask me about anything, I am happy to help if I can of course;
+- 📫 How to reach me: add on <a href="https://www.linkedin.com/in/marcelo-henrique-donato/"</a>;
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelodonato&show_icons=true&theme=highcontrast)
 
