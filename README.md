@@ -13,16 +13,16 @@
  
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloDonato&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelodonato&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloDonato&layout=compact&theme=highcontrast)](https://github.com/marcelodonato/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelodonato&layout=compact&theme=highcontrast)](https://github.com/marcelodonato/github-readme-stats)
 
 
 <img src="https://img.shields.io/badge/Android-Development-green"></img> 
 <img src="https://img.shields.io/badge/Kotlin-Development-blueviolet"/>
 
 
-![Snake animation](https://github.com/MarceloDonato/marcelodonato/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marcelodonato/marcelodonato/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **MarceloDonato/marcelodonato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
