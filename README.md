@@ -19,6 +19,7 @@
 
 
 <img src="https://img.shields.io/badge/Android-Development-green"></img> 
+<img src ="https://img.shields.io/badge/Python-Development-blue" ></img>
 <img src="https://img.shields.io/badge/Kotlin-Development-blueviolet"/>
 
 
